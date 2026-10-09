@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datasets
+datasets/
+extracted_data/
+data_split/
+*.bag
+*.db3
+
+# Model checkpoints
+models/
+*.pth
+*.pt
+*.ckpt
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
